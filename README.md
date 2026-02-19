@@ -1,4 +1,3 @@
-# Basaloid-Squamous-Cell-Carcinoma-of-the-Uterine-Cervix
 # Basaloid Squamous Cell Carcinoma of the Uterine Cervix Mimicking Small Cell Neuroendocrine Carcinoma: A Case Report With Diagnostic Pitfalls and Immunohistochemical Analysis
 ## Jan Wei, BM
 Department of Pathology, Guangzhou Huayin Medical Laboratory Center, Guangzhou, China
