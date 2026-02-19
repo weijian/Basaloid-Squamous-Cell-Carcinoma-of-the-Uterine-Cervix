@@ -1,5 +1,5 @@
 # Basaloid Squamous Cell Carcinoma of the Uterine Cervix Mimicking Small Cell Neuroendocrine Carcinoma: A Case Report With Diagnostic Pitfalls and Immunohistochemical Analysis
-## Jan Wei, BM
+## Jan Wei
 Department of Pathology, Guangzhou Huayin Medical Laboratory Center, Guangzhou, China
 ## Running Title: Cervical Basaloid SCC vs. Small Cell Neuroendocrine Carcinoma
 Correspondence: Jan Wei, BM, Associate Chief Physician 
