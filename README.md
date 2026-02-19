@@ -123,6 +123,7 @@ Figure 3. Immunohistochemical Profile - Neuroendocrine Markers. (A) Synaptophysi
 
 
 Figure 4. Immunohistochemical Profile - Squamous and Other Markers. (A) P40: Diffuse strong nuclear positivity in tumor cells. (B) CK5/6: Diffuse cytoplasmic positivity in tumor cells. (C) Pan-cytokeratin (AE1/AE3): Diffuse strong cytoplasmic positivity. (D) p16: Diffuse strong nuclear and cytoplasmic positivity. (E) Ki-67: High proliferation index of approximately 80%.
+<img width="630" height="798" alt="Snip20260220_28" src="https://github.com/user-attachments/assets/698c6ab7-97c2-4cb1-87c9-6e7bf716a389" />
 
 ## REFERENCES
 * 1	Cervical Cancer. National Comprehensive Cancer Network. Updated 2025-11-10.
