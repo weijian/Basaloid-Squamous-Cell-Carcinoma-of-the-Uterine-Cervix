@@ -106,9 +106,22 @@ This case report was conducted in accordance with the Declaration of Helsinki. W
 The data supporting the findings of this case report are available from the corresponding author upon reasonable request, subject to patient privacy considerations.
 
 ## FIGURE LEGENDS
+<img width="867" height="297" alt="Snip20260219_26" src="https://github.com/user-attachments/assets/58a4658e-4079-4db3-9361-0ad527db7363" />
+
 Figure 1. Gross and Low-Power Histologic Features. (A) Low-power view (H, ×40) demonstrating nests and cords of basaloid tumor cells infiltrating the cervical stroma with peripheral palisading pattern. (B) Adjacent high-grade squamous intraepithelial lesion (HSIL/CIN3) showing full-thickness dysplasia of the squamous epithelium (H, ×100).
+
+<img width="858" height="323" alt="Snip20260219_25" src="https://github.com/user-attachments/assets/16664956-639f-4f10-8932-ae610a04efef" />
+
 Figure 2. Histopathologic Features of the Tumor. (A) High-power view (H, ×200) showing nests of small basaloid cells with hyperchromatic nuclei, high nuclear-to-cytoplasmic ratio, and peripheral palisading. (B) Area showing transition between HSIL/CIN3 and invasive basaloid carcinoma (H, ×200), illustrating the squamous lineage of the tumor.
+
+<img width="869" height="906" alt="Snip20260219_24" src="https://github.com/user-attachments/assets/45f07483-313b-4f23-a852-be63ab2c8ff7" />
+
+
 Figure 3. Immunohistochemical Profile - Neuroendocrine Markers. (A) Synaptophysin: Negative in tumor cells. (B) Chromogranin A: Negative in tumor cells. (C) INSM1: Scattered nuclear positivity in tumor cells (approximately 5-10% of cells). (D) CD56: Scattered membranous positivity in tumor cells. (E) TTF-1: Negative in tumor cells.
+
+<img width="851" height="864" alt="Snip20260219_23" src="https://github.com/user-attachments/assets/38ab28f6-8fac-4ea5-86e6-35afea4134cb" />
+
+
 Figure 4. Immunohistochemical Profile - Squamous and Other Markers. (A) P40: Diffuse strong nuclear positivity in tumor cells. (B) CK5/6: Diffuse cytoplasmic positivity in tumor cells. (C) Pan-cytokeratin (AE1/AE3): Diffuse strong cytoplasmic positivity. (D) p16: Diffuse strong nuclear and cytoplasmic positivity. (E) Ki-67: High proliferation index of approximately 80%.
 
 ## REFERENCES
